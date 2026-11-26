@@ -14,8 +14,10 @@ DJ・VJ 用ソフト DanpaSyncPro 向けの、無償のプラグインです。�
 
 ## ダウンロード
 
-[Releases](../../releases/latest) から、最新の `DanpaSyncOwnBrowser-….dmg` をダウンロードしてください。
-dmg は Apple の公証（notarization）済みです。
+**[⬇ ダウンロード（DanpaSyncOwnBrowser.dmg）](https://github.com/danpasync-plugins/danpasync-browser-plugin/releases/latest/download/DanpaSyncOwnBrowser.dmg)**
+
+押すと、いちばん新しい版の dmg がそのままダウンロードされます。dmg は Apple の公証（notarization）済みです。
+Releases のページに出る「Source code」は使いません（ダウンロードしなくてかまいません）。
 
 | プラグイン | 約束事の版 | 使える DanpaSyncPro |
 | --- | --- | --- |
